@@ -1,0 +1,3 @@
+# SignalR Playground
+
+Playing with SignalR...
